@@ -1,0 +1,4 @@
+INSERT x_1 number
+INSERT y string
+ASSIGN x_1 123
+ASSIGN y '213'

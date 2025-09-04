@@ -1,0 +1,3 @@
+INSERT x string
+ASSIGN x 10
+LOOKUP x

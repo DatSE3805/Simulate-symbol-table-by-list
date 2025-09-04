@@ -1,0 +1,10 @@
+INSERT x string
+INSERT y string
+INSERT z number
+BEGIN
+ASSIGN x 'abc'
+INSERT x number
+ASSIGN x 50
+ASSIGN x 'def'
+ASSIGN z x
+END

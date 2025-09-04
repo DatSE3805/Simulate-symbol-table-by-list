@@ -1,0 +1,3 @@
+INSERT x number
+ASSIGN x 10
+PRINT
